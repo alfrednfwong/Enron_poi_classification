@@ -1,0 +1,2 @@
+data set original source and feature definitions:
+http://news.findlaw.com/hdocs/docs/enron/enron61702insiderpay.pdf
